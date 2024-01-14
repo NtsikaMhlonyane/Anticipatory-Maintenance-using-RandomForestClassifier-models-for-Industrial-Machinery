@@ -32,12 +32,5 @@ This project aims to predict machine failures using advanced data analysis and m
   - pandas
   - scikit-learn
   - keras
-
-## Analysis and Results
-The exploratory data analysis (EDA) reveals insights into the distribution of variables, failure types, and relationships between features. Machine learning models, including RandomForestClassifier, are trained to predict machine failures. Survival analysis models are implemented to estimate the remaining useful life of the devices.
-
-## Conclusion
-The project demonstrates the application of machine learning techniques for predictive maintenance, offering insights into potential areas of improvement in industrial operations. Further optimizations and fine-tuning can enhance the accuracy of failure predictions.
-
 ## Acknowledgments
 The project acknowledges the use of open-source libraries and tools, including pandas, NumPy, scikit-learn, seaborn, and pycare
